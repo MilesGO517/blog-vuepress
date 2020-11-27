@@ -25,4 +25,3 @@ features:
 - title: Tomorrow
   details: 希望更多的爱好者能够参与进来，帮助这个主题更好的成长
 ---
-![avatar](https://raw.githubusercontent.com/MilesGO517/images/master/20201127145350.jpg)
