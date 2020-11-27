@@ -1,5 +1,5 @@
 module.exports = {
-  "title": "blog",
+  "title": "MilesGO",
   "description": "blog",
   "dest": "public",
   "head": [
