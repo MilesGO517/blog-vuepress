@@ -1,3 +1,7 @@
+git add --a
+git commit -m "upload blog"
+git push
+
 call npm run build
 cd public
 git init
