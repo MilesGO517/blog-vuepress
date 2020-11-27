@@ -1,5 +1,5 @@
 git add --a
-git commit -m "upload"
+git commit -m "upload blog"
 git push
 
 call npm run build
