@@ -1,7 +1,7 @@
 ---
 home: true
 heroText: MilesGO
-tagline: If I just lay here, Would you lie with me, and just forget the world?
+tagline: I'm naked and I'm far from home.
 # heroImage: /hero.png
 # heroImageStyle: {
 #   maxWidth: '600px',
