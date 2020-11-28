@@ -51,7 +51,7 @@ module.exports = {
         "items": [
           {
             "text": "GitHub",
-            "link": "https://github.com/recoluan",
+            "link": "https://github.com/MilesGO517",
             "icon": "reco-github"
           }
         ]

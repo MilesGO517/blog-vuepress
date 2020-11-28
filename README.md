@@ -1,7 +1,7 @@
 ---
 home: true
 heroText: MilesGO
-tagline: A simple and beautiful vuepress blog theme.
+tagline: If I just lay here, Would you lie with me, and just forget the world?
 # heroImage: /hero.png
 # heroImageStyle: {
 #   maxWidth: '600px',
