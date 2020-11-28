@@ -38,6 +38,10 @@ module.exports = {
           {
             "text": "vuepress-reco",
             "link": "/docs/theme-reco/"
+          },
+          {
+            "text": "spring-security",
+            "link": "/docs/spring-security/"
           }
         ]
       },
