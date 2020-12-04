@@ -36,12 +36,20 @@ module.exports = {
         "icon": "reco-message",
         "items": [
           {
-            "text": "vuepress-reco",
-            "link": "/docs/theme-reco/"
-          },
-          {
             "text": "spring-security",
             "link": "/docs/spring-security/"
+          },
+          {
+            "text": "spring-security-practice",
+            "link": "http://175.24.53.169/access-control-docs"
+          },
+          {
+            "text": "OnJava8",
+            "link": "https://lingcoder.gitee.io/onjava8/#/sidebar"
+          },
+          {
+            "text": "正则表达式30分钟入门教程",
+            "link": "https://deerchao.cn/tutorials/regex/regex.htm"
           }
         ]
       },
@@ -60,12 +68,6 @@ module.exports = {
     subSidebar: 'auto',
     // "sidebarDepth": 3,
     "sidebar": {
-      "/docs/theme-reco/": [
-        "",
-        "theme.md",
-        "plugin.md",
-        "api.md"
-      ],
       "/docs/spring-security/": [
         "",
         "1",
@@ -88,7 +90,7 @@ module.exports = {
         "18",
         "19",
         "20",
-      ]
+      ],
     },
     "type": "blog",
     "blogConfig": {
