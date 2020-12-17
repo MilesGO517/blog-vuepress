@@ -40,6 +40,10 @@ module.exports = {
             "link": "/docs/spring-security/"
           },
           {
+            "text": "thinking-in-java",
+            "link": "/docs/thinking-in-java/"            
+          },
+          {
             "text": "spring-security-practice",
             "link": "http://175.24.53.169/access-control-docs"
           },
@@ -90,6 +94,11 @@ module.exports = {
         "18",
         "19",
         "20",
+      ],
+      "/docs/thinking-in-java/": [
+        "",
+        "13",
+        "14",
       ],
     },
     "type": "blog",
