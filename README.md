@@ -1,7 +1,7 @@
 ---
 home: true
 heroText: MilesGO
-tagline: I'm naked and I'm far from home.
+tagline: 博客图片来自github，加载需要梯子
 # heroImage: /hero.png
 # heroImageStyle: {
 #   maxWidth: '600px',

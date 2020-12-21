@@ -44,6 +44,14 @@ module.exports = {
             "link": "/docs/thinking-in-java/"            
           },
           {
+            "text": "bpmn-js",
+            "link": "/docs/bpmn-js/"            
+          },
+          {
+            "text": "kafka",
+            "link": "/docs/kafka/"            
+          },
+          {
             "text": "spring-security-practice",
             "link": "http://175.24.53.169/access-control-docs"
           },
@@ -99,6 +107,15 @@ module.exports = {
         "",
         "13",
         "14",
+      ],
+      "/docs/bpmn-js/": [
+        "",
+        "1",
+        "2",
+      ],
+      "/docs/kafka/": [
+        "",
+        "1",
       ],
     },
     "type": "blog",
