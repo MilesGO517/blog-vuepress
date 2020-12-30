@@ -52,6 +52,10 @@ module.exports = {
             "link": "/docs/kafka/"            
           },
           {
+            "text": "java并发",
+            "link": "/docs/concurrency-in-java/"            
+          },
+          {
             "text": "spring-security-practice",
             "link": "http://175.24.53.169/access-control-docs"
           },
@@ -73,6 +77,20 @@ module.exports = {
             "text": "GitHub",
             "link": "https://github.com/MilesGO517",
             "icon": "reco-github"
+          }
+        ]
+      },
+      {
+        "text": "友链",
+        "icon": "reco-message",
+        "items": [
+          {
+            "text": "阮一峰的网络日志",
+            "link": "http://www.ruanyifeng.com/blog/",
+          },
+          {
+            "text": "PicGO作者北邮学长",
+            "link": "https://molunerfinn.com/",
           }
         ]
       }
@@ -105,8 +123,11 @@ module.exports = {
       ],
       "/docs/thinking-in-java/": [
         "",
+        "12",
         "13",
         "14",
+        "14.1",
+        "14.2",
       ],
       "/docs/bpmn-js/": [
         "",
@@ -116,6 +137,13 @@ module.exports = {
       "/docs/kafka/": [
         "",
         "1",
+        "2",
+      ],
+      "/docs/concurrency-in-java/": [
+        "",
+        "1",
+        "2",
+        "3",
       ],
     },
     "type": "blog",
